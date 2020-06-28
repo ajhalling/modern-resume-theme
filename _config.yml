@@ -26,14 +26,16 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   My name is AJ and I've recently graduated with my degree in Information Systems. I have worked jobs in tech for over 6 years ranging from device sales, repair, and most recently systems administration. I have also have skills in <mark>Python</mark>, <mark>HTML/CSS</mark>, and <mark>AWS</mark>.
 
-# Projects Section
-# projects_title: Projects
+Education Section
+educaton_title: Education
 
-# Experience Section
-# experience_title: Experience
+Projects Section
+projects_title: Projects
 
-# Education Section
-# educaton_title: Education
+Experience Section
+experience_title: Experience
+
+
 
 # More Section
 # more_title: A Little More About Me
