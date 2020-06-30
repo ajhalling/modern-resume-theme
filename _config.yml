@@ -24,7 +24,7 @@ linkedin_username: aj-halling
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is AJ and I've recently graduated with my degree in Information Systems. I have worked jobs in tech for over 6 years ranging from device sales, repair, and most recently systems administration. I have also have skills in <mark>Python</mark>, <mark>HTML/CSS</mark>, and <mark>AWS</mark>.
+  My name is AJ and I've recently graduated with my degree in Information Systems. I have worked jobs in tech for over 6 years beginning in device sales, moving to repair, and most recently systems administration. I have also have skills in <mark>Python</mark>, <mark>HTML/CSS</mark>, and <mark>AWS</mark>.
 
 # Education Section
 # educaton_title: Education
