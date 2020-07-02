@@ -25,6 +25,8 @@ linkedin_username: aj-halling
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   My name is AJ and I've recently graduated with my degree in Information Systems. I have worked jobs in tech for over 6 years beginning in device sales, moving to repair, and most recently systems administration. I have also have skills in <mark>Python</mark>, <mark>HTML/CSS</mark>, and <mark>AWS</mark>.
+  /
+  I'm currently looking for a job in the Salt Lake City area. I'm open to discussing potential job opportunities, so please reach out! I am searching for a position as a Systems Analyst or Engineer, DevOps Engineer, or Data Analyst. 
 
 # Education Section
 # educaton_title: Education
