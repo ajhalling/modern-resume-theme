@@ -3,9 +3,9 @@
   job_title: Systems Administrator I
   dates: March 2019 - June 2020
   description: |
-     line1
+     line1\n
      line2
-     line33
+     line3
 - layout: top
   company: Espalhar, LLC
   link: http://espalharllc.com/
