@@ -1,16 +1,16 @@
-# - layout: top-middle
+- layout: top
   company: Kahuku High & Intermediate School
   job_title: Systems Administrator I
   dates: March 2019 - June 2020
 
 
-# - layout: top-middle
+- layout: top
   company: Espalhar, LLC
   link: http://espalharllc.com/
   job_title: Python Developer, Data Extraction and Analysis Expert
   dates: January 2020 - April 2020
 
-# - layout: top-middle
+- layout: top
   company: Backcountry.com
   link: http://backcountry.com/
   job_title: Accounts Payable Expert
